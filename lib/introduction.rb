@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 name = ('Josh, Dan')
 language =('Ember, React')
-def introduction (name,)
+def introduction (name, language )
   puts "Hi, my name is #{name}."
 end
 
