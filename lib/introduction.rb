@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 name = ("Josh")
 language = "Ruby"
-def introduction ( name, language )
+def introduction (name,)
   puts "Hi, my name is #{name}."
 end
 
